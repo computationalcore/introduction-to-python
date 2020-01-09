@@ -1,5 +1,5 @@
 # Introduction to Python
-This is a collection of Jupyter notebooks that is intended to provide an introduction to the Python programming language. Although this collection is intended for beginner data science students, I found it very useful for any beginner in python programming. All notebooks were developed and released by [IBM Cognitive Class](https://cognitiveclass.ai/), available in this repository with a custom organization and some minor changes.
+This is a collection of Jupyter notebooks that is intended to provide an introduction to the Python programming language. Although this collection is aimed to the beginner data science student, I found it very useful for any beginner in python programming. All notebooks were developed and released by [IBM Cognitive Class](https://cognitiveclass.ai/), with some minors changes, organization and customizations provided by me.
 
 ## Notebooks
 
@@ -12,7 +12,7 @@ This section covers the python basics: print, import, types, expressions and str
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
-| Your first program        | 10 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/1-basics/PY0101EN-1-1-Hello.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/1-basics/PY0101EN-1-1-Hello.ipynbDemo) |
+| Your first program        | 10 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/1-basics/PY0101EN-1-1-Hello.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/1-basics/PY0101EN-1-1-Hello.ipynb) |
 | Types                     | 10 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/1-basics/PY0101EN-1-2-Types.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/1-basics/PY0101EN-1-2-Types.ipynb) |
 | Expressions and Variables | 10 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/1-basics/PY0101EN-1-3-Expressions.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/1-basics/PY0101EN-1-3-Expressions.ipynb) |
 | String Operations         | 15 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/1-basics/PY0101EN-1-4-Strings.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/1-basics/PY0101EN-1-4-Strings.ipynb) |
@@ -39,7 +39,7 @@ This section covers the fundamentals of Python language, logic and control struc
 | Conditions and Branching       | 20 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/3-fundamentals/PY0101EN-3-1-Conditions.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/3-fundamentals/PY0101EN-3-1-Conditions.ipynb) |
 | Loops        | 20 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/3-fundamentals/PY0101EN-3-2-Loops.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/3-fundamentals/PY0101EN-3-2-Loops.ipynb) |
 | Functions         | 40 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/3-fundamentals/PY0101EN-3-3-Functions.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/3-fundamentals/PY0101EN-3-3-Functions.ipynb) |
-| Objects and Classes | 40 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/3-fundamentals/PY0101EN-3-4-Classes.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/3-fundamentals/PY0101EN-3-4-Classes.ipynb) |
+| Classes and Objects  | 40 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/3-fundamentals/PY0101EN-3-4-Classes.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/3-fundamentals/PY0101EN-3-4-Classes.ipynb) |
 | **Total** | **120 min** |  |  | 
 
 ### Files
@@ -64,12 +64,12 @@ This section covers an introduction to [pandas](https://pandas.pydata.org/), an 
 ### NumPy
 This section covers an introduction to [NumPy](https://numpy.org/), the fundamental package for scientific computing with Python.
 
-Numpy makes it easier to do many operations that are commonly performed in data science. The same operations are usually computationally faster and require less memory in NumPy compared to regular Python.
+NumPy makes it easier to do many operations that are commonly performed in data science. The same operations are usually computationally faster and require less memory in NumPy compared to regular Python.
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
-| 1D Numpy in Python       | 30 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/6-numpy/PY0101EN-6-1-Numpy1D.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/6-numpy/PY0101EN-6-1-Numpy1D.ipynb) |
-| 2D Numpy in Python     | 20 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/6-numpy/PY0101EN-6-2-Numpy2D.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/6-numpy/PY0101EN-6-2-Numpy2D.ipynb) |
+| 1D NumPy in Python       | 30 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/6-numpy/PY0101EN-6-1-Numpy1D.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/6-numpy/PY0101EN-6-1-Numpy1D.ipynb) |
+| 2D NumPy in Python     | 20 min | [Open](https://github.com/computationalcore/introduction-to-python/blob/master/notebooks/6-numpy/PY0101EN-6-2-Numpy2D.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/6-numpy/PY0101EN-6-2-Numpy2D.ipynb) |
 | **Total** | **50 min** |  |  | 
 
 ## License
