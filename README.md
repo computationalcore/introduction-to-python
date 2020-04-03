@@ -85,3 +85,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [Python for Data Science and AI (Coursera)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
 * [Jupyter Notebook](https://jupyter.org/)
 * [Google Colab](https://colab.research.google.com/)
+* [Raph Trajano](https://github.com/raphtrajano)
+
+And a special thanks to [Raph Trajano](https://github.com/raphtrajano) for reviewing and fixing the materials.
